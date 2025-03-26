@@ -4,7 +4,7 @@ Ce projet est une plateforme développée en C# destinée à des chercheurs dés
 Ce dernier possède une plateforme facile à modifier. 
 Il est possible d’ajouter des sources productrices d’énergie, créer de nouveaux types de producteurs énergétiques, ajouter autant de consommateurs que l’on désire et de créer de nouveaux types de consommateurs.  
 Un système de météo est présent qui permet de simuler 3 paramètres : la force du vent, l’ensoleillement ainsi que la température. 
-Un système de marché permet de gérer les prix unitaires pour plusieurs types d’énergies ainsi que le prix auquel l’électricité est achetée depuis l’étrangers.
+Un système de marché permet de gérer les prix unitaires pour plusieurs types d’énergies ainsi que le prix auquel l’électricité est achetée depuis l’étranger.
 
 ## Ajout d'un producteur d'énergie
 
